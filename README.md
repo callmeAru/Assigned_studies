@@ -1,6 +1,6 @@
 # 📊 Assigned Studies | Python & Data Analytics
 
-A collection of hands-on Python exercises, assignments, and data analysis case studies that document my learning journey in Data Analytics.
+A collection of hands-on Python exercises and data analysis case studies that document my learning journey in Data Analytics.
 
 This repository focuses on building a strong foundation in Python, NumPy, Pandas, and SQL through practical exercises and real-world datasets. Rather than just learning concepts theoretically, I use these notebooks to practise, experiment with data, solve problems, and understand how data can be used to find meaningful insights.
 
