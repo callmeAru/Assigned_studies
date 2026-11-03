@@ -1,8 +1,10 @@
 # 📊 Assigned Studies | Python & Data Analytics
 
-A collection of hands-on Python exercises and data analysis case studies that document my learning journey in Data Analytics.
+A collection of hands-on Python exercises, analytical notebooks, and data analysis case studies documenting my journey into Data Analytics.
 
-This repository focuses on building a strong foundation in Python, NumPy, Pandas, and SQL through practical exercises and real-world datasets. Rather than just learning concepts theoretically, I use these notebooks to practise, experiment with data, solve problems, and understand how data can be used to find meaningful insights.
+This repository serves as a practical learning space where I explore Python, NumPy, Pandas, and SQL through exercises and real-world datasets. It focuses on applying concepts, exploring data, solving analytical problems, and understanding how raw data can be transformed into meaningful insights.
+
+Rather than just learning concepts theoretically, I use these notebooks to practise, experiment, make mistakes, and improve my problem-solving approach.
 
 ---
 
@@ -31,16 +33,23 @@ Practical exercises focusing on numerical computing, array manipulation, and sta
 
 ### 2. Pandas & Data Analysis
 
-Practical exercises and case studies involving structured datasets and exploratory data analysis.
+Practical exercises and case studies involving structured datasets, data exploration, cleaning, and exploratory data analysis (EDA).
 
-| Notebook                    | Description                                        |
-| --------------------------- | -------------------------------------------------- |
-| `pandas_day1.ipynb`         | Introduction to Pandas and fundamental operations. |
-| `Skillbridge.ipynb`         | Course enrolment and learner feedback analytics.   |
-| `TechNova_emp.ipynb`        | Employee-related data analysis.                    |
-| `brightpath.ipynb`          | Practical data analysis case study.                |
-| `retails.ipynb`             | Retail data analysis.                              |
-| `superstore_analysis.ipynb` | Superstore dataset analysis.                       |
+| Notebook                    | Description                                                    |
+| --------------------------- | -------------------------------------------------------------- |
+| `pandas_day1.ipynb`         | Introduction to Pandas and fundamental operations.             |
+| `Skillbridge.ipynb`         | Course enrolment and learner feedback analytics.               |
+| `TechNova_emp.ipynb`        | Employee records, salary analysis, and performance evaluation. |
+| `brightpath.ipynb`          | Practical data analysis case study.                            |
+| `retails.ipynb`             | Retail data analysis and sales exploration.                    |
+| `superstore_analysis.ipynb` | Superstore dataset analysis.                                   |
+
+**Case Studies & Practical Exercises:**
+
+* Employee data analysis – TechNova
+* Hospital patient data analysis – CityCare
+* Retail sales analysis – FreshMart
+* Superstore sales and business performance analysis
 
 **Concepts Covered:**
 
@@ -49,17 +58,22 @@ Practical exercises and case studies involving structured datasets and explorato
 * Indexing using `loc[]` and `iloc[]`
 * Data selection and filtering
 * Handling missing values
-* Duplicate detection
+* Duplicate detection and removal
+* Data type conversion
 * Sorting and ranking
 * Grouping and aggregation
 * Statistical analysis
 * Frequency distribution and percentage calculations
+* Correlation analysis
+* Outlier detection using the IQR method
 * Data cleaning and preprocessing
+* Feature engineering
+* Exporting cleaned datasets
 * Business insights and interpretation
 
 ### 3. SQL & Database Practice
 
-SQL practice and database-related analytical exercises.
+SQL practice and database-related analytical exercises focused on retrieving, manipulating, and analysing structured data.
 
 **Topics Covered:**
 
@@ -70,21 +84,22 @@ SQL practice and database-related analytical exercises.
 * Subqueries
 * Common Table Expressions (CTEs)
 * Window functions
+* Ranking and analytical functions
 * Business-oriented data analysis
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-| Technology       | Purpose                                |
-| ---------------- | -------------------------------------- |
-| Python           | Programming and data analysis          |
-| NumPy            | Numerical computing                    |
-| Pandas           | Data manipulation and analysis         |
-| MySQL            | Relational database querying           |
-| Jupyter Notebook | Interactive development                |
-| Google Colab     | Cloud-based notebook environment       |
-| Git & GitHub     | Version control and project management |
+| Technology       | Purpose                                     |
+| ---------------- | ------------------------------------------- |
+| Python           | Programming and data analysis               |
+| NumPy            | Numerical computing and array operations    |
+| Pandas           | Data manipulation, cleaning, and analysis   |
+| MySQL            | Relational database querying                |
+| Jupyter Notebook | Interactive development and experimentation |
+| Google Colab     | Cloud-based notebook environment            |
+| Git & GitHub     | Version control and project management      |
 
 ---
 
@@ -114,26 +129,28 @@ cd Assigned_studies
 
 1. Open the repository using Jupyter Notebook or Google Colab.
 2. Select the notebook you want to explore.
-3. Execute the cells sequentially.
-4. Review the outputs and analytical findings.
+3. Make sure the required datasets are available in the appropriate directory.
+4. Execute the cells sequentially.
+5. Review the outputs and analytical findings.
 
 ---
 
 ## 🎯 Learning Objectives
 
-This repository is a way for me to put what I learn into practice and gradually improve my data analysis skills.
+This repository represents my ongoing effort to become better at working with data and solving analytical problems.
 
 Through these exercises and case studies, I aim to:
 
-* Become more comfortable writing Python code and solving problems independently.
-* Understand how NumPy works and use it for numerical operations.
-* Learn to work with Pandas for exploring, cleaning, and analysing datasets.
-* Get better at identifying patterns, trends, and useful information hidden in data.
-* Practise working with real-world datasets instead of relying only on theoretical examples.
-* Improve my ability to write SQL queries and retrieve meaningful information from databases.
-* Develop the habit of explaining what the results actually mean, rather than just producing outputs.
+* Build confidence in Python programming and independent problem-solving.
+* Understand numerical computing and data manipulation using NumPy.
+* Develop practical skills in Pandas for exploring, cleaning, and analysing datasets.
+* Learn how to identify patterns, trends, relationships, and anomalies in data.
+* Gain experience working with different types of real-world datasets.
+* Strengthen SQL skills for querying and analysing relational databases.
+* Improve my ability to interpret analytical results and communicate meaningful findings.
+* Develop a structured approach to solving data-related problems.
 
-This is an ongoing learning process, and I'll continue adding new exercises and case studies as I explore more concepts and tools.
+This repository is continuously evolving as I learn new concepts, explore different datasets, and take on more challenging analytical exercises.
 
 ---
 
